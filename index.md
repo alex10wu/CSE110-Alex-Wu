@@ -2,7 +2,7 @@
 
 >The git transactions I used for Lab week 0 & 1 are:
 
-'''
+```
 git clone
 git branch
 git checkout
@@ -10,7 +10,7 @@ git add
 git commit
 git push
 
-'''
+```
 
 This is a useful link to help create [external link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
